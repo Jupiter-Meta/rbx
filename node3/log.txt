@@ -1,0 +1,385 @@
+2023-05-31T18:52:48.209+0530 [INFO]  Main.Core: Initializing IPFS
+2023-05-31T18:52:51.562+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-05-31T18:52:51.634+0530 [INFO]  Main.Core: Initializing daemon...
+2023-05-31T18:52:51.636+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-05-31T18:52:51.636+0530 [INFO]  Main.Core: Repo version: 12
+2023-05-31T18:52:51.636+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-05-31T18:52:51.636+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-05-31T18:53:01.716+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-05-31T18:53:01.716+0530 [INFO]  Main.Core: Swarm key fingerprint: a5ef5059eede91e09c9994d112fd1e05
+2023-05-31T18:53:01.717+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-05-31T18:53:01.722+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.115.8/tcp/4005
+2023-05-31T18:53:01.722+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-05-31T18:53:01.722+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-05-31T18:53:01.723+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-05-31T18:53:01.723+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.1.20/tcp/4005
+2023-05-31T18:53:01.723+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-05-31T18:53:01.724+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-05-31T18:53:01.724+0530 [INFO]  Main.Core: Swarm announcing /ip4/10.90.4.2/tcp/44804
+2023-05-31T18:53:01.724+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-05-31T18:53:01.724+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.1.20/tcp/4005
+2023-05-31T18:53:01.724+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-05-31T18:53:01.725+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-05-31T18:53:01.725+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-05-31T18:53:01.725+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-05-31T18:53:01.725+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-05-31T18:53:03.824+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-05-31T18:53:03.824+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-05-31T18:53:03.840+0530 [INFO]  Main.Core: IPFS Initialized
+2023-05-31T18:53:03.840+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-05-31T18:53:03.924+0530 [INFO]  Main.Core: Initializing daemon...
+2023-05-31T18:53:03.924+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-05-31T18:53:03.924+0530 [INFO]  Main.Core: Repo version: 12
+2023-05-31T18:53:03.924+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-05-31T18:53:03.925+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-05-31T18:53:06.646+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-05-31T18:53:06.647+0530 [INFO]  Main.Core: Swarm key fingerprint: a5ef5059eede91e09c9994d112fd1e05
+2023-05-31T18:53:06.648+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-05-31T18:53:06.649+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.115.8/tcp/4005
+2023-05-31T18:53:06.649+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-05-31T18:53:06.649+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-05-31T18:53:06.649+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-05-31T18:53:06.649+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.1.20/tcp/4005
+2023-05-31T18:53:06.649+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-05-31T18:53:06.650+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-05-31T18:53:06.650+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-05-31T18:53:06.651+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.1.20/tcp/4005
+2023-05-31T18:53:06.651+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-05-31T18:53:06.652+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-05-31T18:53:06.652+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-05-31T18:53:06.652+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-05-31T18:53:06.653+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-05-31T18:53:06.661+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-05-31T18:53:06.661+0530 [INFO]  Main.Core: Setting up the core
+2023-05-31T18:53:06.670+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-05-31T18:53:06.675+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-05-31T18:53:06.681+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-05-31T18:53:06.687+0530 [INFO]  Main.Core: Starting the core
+2023-05-31T18:53:06.693+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-05-31T18:53:06.724+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-05-31T18:53:06.726+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-05-31T18:53:06.727+0530 [INFO]  Main: Core version : 0.0.8
+2023-05-31T18:53:06.728+0530 [INFO]  Main: Starting server...
+2023-05-31T18:53:06.729+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-05-31T18:53:06.730+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-05-31T19:59:07.323+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-05-31T19:59:07.337+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-05-31T19:59:07.389+0530 [INFO]  Main: Shutting down...
+2023-06-01T11:20:25.149+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-06-01T11:20:25.251+0530 [INFO]  Main.Core: Initializing daemon...
+2023-06-01T11:20:25.251+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-06-01T11:20:25.252+0530 [INFO]  Main.Core: Repo version: 12
+2023-06-01T11:20:25.252+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-06-01T11:20:25.252+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-06-01T11:20:26.551+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-06-01T11:20:26.556+0530 [INFO]  Main.Core: Swarm key fingerprint: a5ef5059eede91e09c9994d112fd1e05
+2023-06-01T11:20:26.560+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-06-01T11:20:26.566+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-06-01T11:20:26.570+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-06-01T11:20:26.573+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-06-01T11:20:26.576+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.0.109/tcp/4005
+2023-06-01T11:20:26.581+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.137.1/tcp/4005
+2023-06-01T11:20:26.587+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-06-01T11:20:26.591+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-06-01T11:20:26.597+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-06-01T11:20:26.604+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.0.109/tcp/4005
+2023-06-01T11:20:26.604+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-06-01T11:20:26.604+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-06-01T11:20:26.605+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-06-01T11:20:26.622+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-06-01T11:20:26.626+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-06-01T11:20:26.655+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-06-01T11:20:26.657+0530 [INFO]  Main.Core: Setting up the core
+2023-06-01T11:20:26.669+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-06-01T11:20:26.690+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-06-01T11:20:26.710+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-06-01T11:20:26.754+0530 [INFO]  Main.Core: Starting the core
+2023-06-01T11:20:26.779+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-06-01T11:20:26.967+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-06-01T11:20:26.972+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-06-01T11:20:26.977+0530 [INFO]  Main: Core version : 0.0.8
+2023-06-01T11:20:26.987+0530 [INFO]  Main: Starting server...
+2023-06-01T11:20:26.999+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-06-01T11:20:27.008+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-06-01T11:26:23.805+0530 [INFO]  Main.Core: DID : bafybmiakf5ncmhdvst7ufakziwytigkt5yparfr6wbjt23qs7tezaklwna, Time to create DID & Keys : 3m59.8938989s
+2023-06-01T11:34:27.170+0530 [INFO]  Main.Core.unpledge: Unpledging started
+2023-06-01T11:34:27.170+0530 [INFO]  Main.Core.unpledge: All tokens are unplegded
+2023-06-01T16:24:27.688+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T16:24:55.849+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T16:25:35.162+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T16:28:07.095+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T16:29:18.972+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T16:33:38.039+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T16:42:43.864+0530 [DEBUG] Main.Core: Request for pledge
+2023-06-01T17:27:18.502+0530 [INFO]  Main.Rubixplatform: Shutting down...
+2023-06-01T17:27:21.520+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-06-01T17:27:21.521+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-06-01T17:27:21.531+0530 [INFO]  Main: Shutting down...
+2023-06-02T10:44:17.815+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-06-02T10:44:17.928+0530 [INFO]  Main.Core: Initializing daemon...
+2023-06-02T10:44:17.929+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-06-02T10:44:17.929+0530 [INFO]  Main.Core: Repo version: 12
+2023-06-02T10:44:17.929+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-06-02T10:44:17.929+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-06-02T10:44:18.616+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-06-02T10:44:18.617+0530 [INFO]  Main.Core: Swarm key fingerprint: e5b34b687a4f51be1e700825ad8de4ef
+2023-06-02T10:44:18.617+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-06-02T10:44:18.617+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-06-02T10:44:18.618+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-06-02T10:44:18.619+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-06-02T10:44:18.621+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.0.111/tcp/4005
+2023-06-02T10:44:18.625+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.137.1/tcp/4005
+2023-06-02T10:44:18.625+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-06-02T10:44:18.625+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-06-02T10:44:18.626+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-06-02T10:44:18.626+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.0.111/tcp/4005
+2023-06-02T10:44:18.626+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-06-02T10:44:18.628+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-06-02T10:44:18.628+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-06-02T10:44:18.628+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-06-02T10:44:18.628+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-06-02T10:44:18.643+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-06-02T10:44:18.643+0530 [INFO]  Main.Core: Setting up the core
+2023-06-02T10:44:18.647+0530 [INFO]  Main.Core: Starting the core
+2023-06-02T10:44:18.647+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-06-02T10:44:18.662+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-06-02T10:44:18.665+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-06-02T10:44:18.665+0530 [INFO]  Main: Core version : 0.0.8
+2023-06-02T10:44:18.665+0530 [INFO]  Main: Starting server...
+2023-06-02T10:44:18.665+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-06-02T10:44:18.666+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-06-02T11:15:43.089+0530 [INFO]  Main.Core: DID : bafybmia3cujkg6aouqyvdmsfsy3hhjdq3zaayeuzviwn47j5k2qatdaive, Time to create DID & Keys : 5m0.1157278s
+2023-06-02T11:40:33.605+0530 [INFO]  Main.Core.unpledge: Unpledging started
+2023-06-02T11:40:33.606+0530 [INFO]  Main.Core.unpledge: All tokens are unplegded
+2023-06-02T12:07:26.778+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmSR39RvBNSTqDr6dU7Gp7DLM59Qd4Eo3nzF56Hu5EWCVV-0000000000000000-0a08cfe3801a9eceb391c5e4bedb2d4c550d72114e915f31aa62eff98bc922bb
+2023-06-02T12:07:26.818+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmQM2h8PyzLYUXjcVtAjBq8aw5ECiuW1FpLyhC9Vojn3n2-0000000000000000-edbd7d361b320508300864fa811e9e9b1086cc1bf285ae78d1eff5a392c7de41
+2023-06-02T12:12:13.947+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-02T12:12:16.614+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-02T12:49:51.397+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-02T12:49:53.615+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-02T12:53:29.762+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmckxhAUPo7r3KkUjyLi3B7xiqdSVTGPC28eACwWPuKKLJ-0000000000000000-650428b6dbf1d506ad2423966e9b663e4f5d33c22cc91ba393b5b7ea6f42801f
+2023-06-02T12:53:29.813+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmXmtAMjHvf9iaYyjgjnbA3kXRqVCsoDf5TbBEvfWkT18Z-0000000000000000-621510cabb5611d2143156d541c3948520ccf9671a8a2d030bf4d70a612c5472
+2023-06-02T12:53:29.849+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmWeMQGnjVU9BfnzCqj6KL38VVYQtaLtti7W6vFJTMMwgU-0000000000000000-391f9f83c9164f5fe0491e753a04a7b5c60221ad4ffaf2caccfe4074bc52c839
+2023-06-02T12:53:29.894+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmV1zZ3KJBPi9dx92VrZscGsQ39SweG7XXZiLxGKsd6oeb-0000000000000000-5cb0ecb377dc823374bd58c2bad108431d987be105b5eb45c6651cb14e7c8334
+2023-06-02T12:53:29.931+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmbcygoFov2zefgqxcdPcYU8nMEVd8PMHrMCH2N8ktTwBD-0000000000000000-2121e39d28ac701a4ce1f45710cff3b3a3fe5731cafd5c029c5a15586668228e
+2023-06-02T12:53:29.973+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmUkPUpKQ5JfQ381eDfpsn6nRzDymUaELQjFAumaN2YdxF-0000000000000000-ef3abb7bae0a6337e6d8d31737dc4ae44fec31470011b510d5c899b7d8d41325
+2023-06-02T12:53:30.017+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmRbSariyJ81jsEpHrd2ARL3tgcCSMfhej8ziZ6oXK7XvD-0000000000000000-d0a8e63a9370d1b3a40cb342fd14036d83d431f96d5c23c888e7d4dc9c67127b
+2023-06-02T12:53:30.060+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmT6ubrnMmLyzEBxyrjDYtGm8w4op5M3L5zW5WKzhS5WMr-0000000000000000-3e414b30d6c13c91596e44d7a951e1fd74203d0fa76bc215e97069e142f44e48
+2023-06-02T12:53:30.099+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmSHYREpm2TgPo43aPHsgJz5S1Kfq2iCkZsKGYQ2uWHSoj-0000000000000000-c90e7929e344eedfa301731cab34e54606ed2c9adfa2c2a120cba70fd131a8d1
+2023-06-02T12:53:30.142+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmaLXSZFQ2Q3RHxvGtUiVRYrJfCFrvxfTYSZaqDivh6fQo-0000000000000000-508f35443365df5e85bf0fb9bd425b3f113cdb5fb9b1bcaeec22a20ab07a2f73
+2023-06-02T12:53:30.188+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmYuq4w6vDirWsBnh3NaFmaNR6noNbvUrJF2GGwoCqVo5R-0000000000000000-4af79207f1c0b6b684b034c59a3c3c9be151945ed8d8ce53f18a2b42c0f1e7b8
+2023-06-02T12:53:30.230+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmUZ7BAVjKCBLHfsRQWuAuNPNLdhhaE1LEo3S9Qi1L2v9J-0000000000000000-7bb4a2002f00a72fc0f734db53d97aebbefbcb86ee5364f929d842e9bfcf3d1e
+2023-06-02T12:53:30.268+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmTfsRBK2uc6gQvtrR3XMUia8h2yXAhp8VUuFUA2bTN39V-0000000000000000-320fec26ca67f05045dc2121d4e1f51d3fbf7918d370170acf74fd1ebddc291d
+2023-06-02T12:53:30.330+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmVRzwNYoNbbyFqv99ws1x2HdgHA7jkBLEAXq4MsrbeqzD-0000000000000000-ab297749b68136b33d913d1c1639ef501597436d23c62374980d222adbc82657
+2023-06-02T12:53:30.366+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmewmuLr5eNbAqnW5qLtZg6S1LsrseyNXXJLEvcj4VgG7q-0000000000000000-290baa4a9d2973a67e284b9e7506a1978f9bd95ce440fde08b7ce5e5d43f2297
+2023-06-02T12:53:30.411+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmNhdVPNGDA8GChhrhCwJFfoVSJjnXneBXaArtt9aHzeHS-0000000000000000-536c517970cb50e0b48f16ee0833be06e7d89a53eae2e51a6dd4da311907e41b
+2023-06-02T12:53:30.451+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmdErG11Gpe1bXTaj9NmA2MrQdsam53UsXaHrYmkCtM2Fv-0000000000000000-9b6e60267cdebcb29a2ba92935a990d3cb027722c6e3b10370a0204deba5d84f
+2023-06-02T12:53:30.493+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmQGJsZGtHG45sZ7AQcosGdPYPtD39WZQfEGsvqPCom2My-0000000000000000-4d7b41a3192c7dc545f40fbe32f53ef3290906f05fcac6d45bb484e45a6fa061
+2023-06-02T12:53:30.536+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmQ8eFnwuLtDvvNNzFgxCDAQd4R5Kc6rN2MpaV3NYFUWc8-0000000000000000-f59c7fbdfb6d2ad8cc261f60f4f7761a8bb6a0b843cc13a990d4910008c6fbb1
+2023-06-02T12:53:30.577+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-Qmay4TWtfZw8Tk9scnZKE8AJwrVWwpFa3vfztzLRKC1k81-0000000000000000-6d6d125259356fa7b654c67832a360e83f1716f52683a2259440326b2770c6da
+2023-06-02T12:54:46.626+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-02T12:54:49.074+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-02T13:02:23.921+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-02T13:02:25.501+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-02T13:13:21.587+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-02T13:13:25.228+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-02T15:09:22.417+0530 [INFO]  Main.Rubixplatform: Shutting down...
+2023-06-02T15:09:25.444+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-06-02T15:09:25.444+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-06-02T15:09:25.452+0530 [INFO]  Main: Shutting down...
+2023-06-02T15:16:37.601+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-06-02T15:16:37.689+0530 [INFO]  Main.Core: Initializing daemon...
+2023-06-02T15:16:37.690+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-06-02T15:16:37.690+0530 [INFO]  Main.Core: Repo version: 12
+2023-06-02T15:16:37.690+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-06-02T15:16:37.691+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-06-02T15:16:47.847+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-06-02T15:16:47.848+0530 [INFO]  Main.Core: Swarm key fingerprint: e5b34b687a4f51be1e700825ad8de4ef
+2023-06-02T15:16:47.849+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-06-02T15:16:47.849+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.115.8/tcp/4005
+2023-06-02T15:16:47.850+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-06-02T15:16:47.851+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-06-02T15:16:47.851+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-06-02T15:16:47.852+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.0.111/tcp/4005
+2023-06-02T15:16:47.852+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-06-02T15:16:47.852+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-06-02T15:16:47.852+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-06-02T15:16:47.852+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.0.111/tcp/4005
+2023-06-02T15:16:47.853+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-06-02T15:16:47.853+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-06-02T15:16:47.853+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-06-02T15:16:47.853+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-06-02T15:16:47.855+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-06-02T15:16:47.880+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-06-02T15:16:47.881+0530 [INFO]  Main.Core: Setting up the core
+2023-06-02T15:16:47.884+0530 [INFO]  Main.Core: Starting the core
+2023-06-02T15:16:47.887+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-06-02T15:16:47.898+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-06-02T15:16:47.899+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-06-02T15:16:47.900+0530 [INFO]  Main: Core version : 0.0.8
+2023-06-02T15:16:47.900+0530 [INFO]  Main: Starting server...
+2023-06-02T15:16:47.901+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-06-02T15:16:47.901+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-06-02T15:17:49.795+0530 [ERROR] Main.Core: Quorum is not setup
+2023-06-02T15:35:00.407+0530 [INFO]  Main.Core.unpledge: Unpledging started
+2023-06-02T15:35:00.408+0530 [INFO]  Main.Core.unpledge: All tokens are unplegded
+2023-06-02T15:45:42.682+0530 [ERROR] Main.Core.wallet: DID does nto exist: did=bafybmiakf5ncmhdvst7ufakziwytigkt5yparfr6wbjt23qs7tezaklwna
+2023-06-02T16:41:38.492+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-06-02T16:41:38.494+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-06-02T16:41:38.504+0530 [INFO]  Main: Shutting down...
+2023-06-02T16:52:14.637+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-06-02T16:52:14.723+0530 [INFO]  Main.Core: Initializing daemon...
+2023-06-02T16:52:14.724+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-06-02T16:52:14.724+0530 [INFO]  Main.Core: Repo version: 12
+2023-06-02T16:52:14.725+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-06-02T16:52:14.725+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-06-02T16:52:15.390+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-06-02T16:52:15.390+0530 [INFO]  Main.Core: Swarm key fingerprint: e5b34b687a4f51be1e700825ad8de4ef
+2023-06-02T16:52:15.391+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-06-02T16:52:15.391+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.115.8/tcp/4005
+2023-06-02T16:52:15.391+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-06-02T16:52:15.391+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-06-02T16:52:15.393+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-06-02T16:52:15.397+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.0.111/tcp/4005
+2023-06-02T16:52:15.399+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-06-02T16:52:15.399+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-06-02T16:52:15.401+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-06-02T16:52:15.401+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.0.111/tcp/4005
+2023-06-02T16:52:15.402+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-06-02T16:52:15.402+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-06-02T16:52:15.402+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-06-02T16:52:15.403+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-06-02T16:52:15.404+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-06-02T16:52:15.415+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-06-02T16:52:15.415+0530 [INFO]  Main.Core: Setting up the core
+2023-06-02T16:52:15.422+0530 [INFO]  Main.Core: Starting the core
+2023-06-02T16:52:15.422+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-06-02T16:52:15.432+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-06-02T16:52:15.434+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-06-02T16:52:15.434+0530 [INFO]  Main: Core version : 0.0.8
+2023-06-02T16:52:15.435+0530 [INFO]  Main: Starting server...
+2023-06-02T16:52:15.435+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-06-02T16:52:15.435+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-06-02T16:53:33.561+0530 [ERROR] Main.Core.wallet: DID does nto exist: did=bafybmiakf5ncmhdvst7ufakziwytigkt5yparfr6wbjt23qs7tezaklwna
+2023-06-02T16:53:35.202+0530 [ERROR] Main.Core: Quorum is not setup
+2023-06-02T16:57:03.419+0530 [INFO]  Main.Core.unpledge: Unpledging started
+2023-06-02T16:57:03.420+0530 [INFO]  Main.Core.unpledge: All tokens are unplegded
+2023-06-02T17:21:47.290+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-06-02T17:21:47.292+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-06-02T17:21:47.310+0530 [INFO]  Main: Shutting down...
+2023-06-05T11:45:24.859+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-06-05T11:45:25.459+0530 [INFO]  Main.Core: Initializing daemon...
+2023-06-05T11:45:25.459+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-06-05T11:45:25.459+0530 [INFO]  Main.Core: Repo version: 12
+2023-06-05T11:45:25.459+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-06-05T11:45:25.461+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-06-05T11:45:26.376+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-06-05T11:45:26.393+0530 [INFO]  Main.Core: Swarm key fingerprint: e5b34b687a4f51be1e700825ad8de4ef
+2023-06-05T11:45:26.397+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-06-05T11:45:26.400+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-06-05T11:45:26.411+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-06-05T11:45:26.415+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.83.128/tcp/4005
+2023-06-05T11:45:26.424+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.0.112/tcp/4005
+2023-06-05T11:45:26.426+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.137.1/tcp/4005
+2023-06-05T11:45:26.427+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-06-05T11:45:26.429+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-06-05T11:45:26.430+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-06-05T11:45:26.452+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.0.112/tcp/4005
+2023-06-05T11:45:26.456+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-06-05T11:45:26.468+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-06-05T11:45:26.480+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-06-05T11:45:26.498+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-06-05T11:45:26.513+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-06-05T11:45:26.545+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-06-05T11:45:26.552+0530 [INFO]  Main.Core: Setting up the core
+2023-06-05T11:45:26.595+0530 [INFO]  Main.Core: Starting the core
+2023-06-05T11:45:26.596+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-06-05T11:45:26.649+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-06-05T11:45:26.653+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-06-05T11:45:26.658+0530 [INFO]  Main: Core version : 0.0.8
+2023-06-05T11:45:26.665+0530 [INFO]  Main: Starting server...
+2023-06-05T11:45:26.670+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-06-05T11:45:26.674+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-06-05T11:50:43.952+0530 [ERROR] Main.Core.wallet: DID does nto exist: did=bafybmiakf5ncmhdvst7ufakziwytigkt5yparfr6wbjt23qs7tezaklwna
+2023-06-05T11:50:45.630+0530 [ERROR] Main.Core: Quorum is not setup
+2023-06-05T11:54:42.822+0530 [ERROR] Main.Core.wallet: DID does nto exist: did=bafybmiakf5ncmhdvst7ufakziwytigkt5yparfr6wbjt23qs7tezaklwna
+2023-06-05T11:54:44.447+0530 [ERROR] Main.Core: Quorum is not setup
+2023-06-05T12:19:50.067+0530 [INFO]  Main.Core: DID : bafybmiht7lr2v5gfrvt2rggor7yevpvpktx2sfl5uthdzi5vp6mvlnrs2u, Time to create DID & Keys : 9m37.5176046s
+2023-06-05T12:37:42.858+0530 [INFO]  Main.Core.unpledge: Unpledging started
+2023-06-05T12:37:42.859+0530 [INFO]  Main.Core.unpledge: All tokens are unplegded
+2023-06-05T12:42:40.060+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmYqhwPi8T4E9pER2o7uWfEbSKQHV8ZAiB131Dy2t2JqNU-0000000000000000-70caf1f7d0e711eed7d98261a9e14f0d82bd8cc0e17e90ab97358362c3030210
+2023-06-05T12:42:40.098+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-Qme6TvPGzrMgS5BWzUebdEESjTRB9n5jx9257VHqPqcbbR-0000000000000000-54c506a97c732d3ed1ba0b91283928553746e8cb9c32e066d2bd85b76b43204d
+2023-06-05T12:42:40.136+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmYtYUzoQu7YcbqFGtsbQ1DUahyBkPRNHcD5DHA4HFnxiq-0000000000000000-22959755f0e13147db7ddbb650d8f74eb6604e765912f43be7333b72b8da8955
+2023-06-05T12:42:40.174+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-Qmbi26kaEB7qRJSCEZ7pgAv5nhLXX47baB5PJfE5M4LGzu-0000000000000000-aeb065c6518676f214bfc3c9b8889d3f1c89c1117932461eef0455cacb6c841f
+2023-06-05T12:42:40.211+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmZMy3dcmDifobxjWNeaKRUpqrSa8xZ7SFu7wKQU74dVae-0000000000000000-1288c4fd08f140e722f577651317324642ef2951c0e7031c8958ae20910a6bed
+2023-06-05T12:42:40.248+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmWheoYB66eZsGFC6gZdgKkH8X2LncS6HpEPXzondpGoHb-0000000000000000-f07c32f748c0e4233f4401eef5921ad3384b1459c6f3933a3adf06f1540af7ed
+2023-06-05T12:42:40.287+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-Qmb9fjDfbZp8e64opr1ZKidduETKZLZ1rSyspH8pbgTKbc-0000000000000000-1f3aff0f2d8bb362834f08adc788a90dd9cdd59ad06e60bfc20095fff118bfab
+2023-06-05T12:42:40.321+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmQHwGzCmrLJKQnmW4xBBpfoJ2TT557pJCnBQb59J5mSqM-0000000000000000-09138d2151a25007947c7309a0de6a9a4fc9d46cb97eab58a28740c4c19b6746
+2023-06-05T12:42:40.358+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-Qmf5KqwWR33b5vYtVdQodZTB1rwceSYrQE8WrxF7MrHVQy-0000000000000000-d36e2074790bbfc74186165e5af0b17a9629144b45bcb3daeeb19bfa6107f83a
+2023-06-05T12:42:40.393+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmVppVKavgvbZnTTFxbrQyTreKZou53dkgAhLFwMVgSYtE-0000000000000000-1c5702af5a117f6cbf319e5795085896010d5fc557719f786f1887b4afd2d7f6
+2023-06-05T12:42:40.428+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmSzhwaF2disuvN2zssZHTfWmRvoM2Aho6f6JBzFcSJdPM-0000000000000000-7bcf3cb39faab691568a3ac8357265ee071b9eae5af5bc5de20a2f33abfebf1c
+2023-06-05T12:42:40.465+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmNRfwEw8HfRwhN6bjCjhBwbxaw2ZQZC3m5d2szHg66twL-0000000000000000-33f5093ff3ffca458b82ab6f8d1926bd7757a4e737d46a87316e0c7dea1bb2d4
+2023-06-05T12:42:40.515+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmYA3FmuH3fWPAyadnU8YgzhKdMJMYy84TfPY4dv6WqgAn-0000000000000000-9f76067a06d6a08d6a6be097cb09231974fedf343c71ecb049a18322fc19d77e
+2023-06-05T12:42:40.556+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmUuc3k3FTiv6k2DVTu4jPrebedv2h8gv9MynogtjMA6Hg-0000000000000000-8ab2507a93339cf3e6fb3bf1eea964db91d88961e4a0bb8fff0b2ee2da99dcd5
+2023-06-05T12:42:40.597+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmUq5zHMjYjTy3jTLYHRkNafRLVHXxNA3QcXFhz9upRscR-0000000000000000-9d2146f91b0ef0d45221b270514703d554db65bce144f24d46ef943398fbf82f
+2023-06-05T12:42:40.633+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-Qmb5imTHupkgzE8y6PLXAGpvMiRpF8CA9qH9MUMpXjv5Hn-0000000000000000-b3d2b9612d3696e42286636bbb253633fba300641c11f90a9e55562a4e91737c
+2023-06-05T12:42:40.666+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmcQSX9qSgAooryeE4AZQCSRiDznkPJ61sEXmiKFjxtkYg-0000000000000000-239d0b2d9385f499508f22932367df9a76969bc35d51bf233a469c61032b1acf
+2023-06-05T12:42:40.703+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmNQbtgv46EUEUywMi1nYaH1rs8gSds3a5NdLYJeD9UsB4-0000000000000000-6371bb2ed1b4cff499e9d9677b706dd5e4f58c8e98d10b3e67e9e0b0a0107045
+2023-06-05T12:42:40.741+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmfQPfDEziUFSBw9Z9B3vfe5QADCVN2mC5iHB6deWpzkfB-0000000000000000-7331657343bd7434f5b2fe32888dbb8672cc4ec0dfcd10cf6f40f45272341c91
+2023-06-05T12:42:40.778+0530 [DEBUG] Main.Core.wallet: Writtent: key=tt-QmVbMkqcZMHvFVv4xGqmXk7GdY6mhsP3FLijLVrVC3XmZK-0000000000000000-c5412d4cd5d8109c47dd054126d1a557a29785d4c72ef9c033922113dcd13052
+2023-06-05T12:45:22.833+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-05T12:45:29.223+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-05T14:47:26.977+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-05T14:47:29.223+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-05T15:13:46.139+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-05T15:13:48.386+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-05T16:46:10.270+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-05T16:46:12.928+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-05T17:38:39.144+0530 [DEBUG] Main.Core: Data Consensus started
+2023-06-05T17:38:41.233+0530 [DEBUG] Main.Core: Data Consensus finished
+2023-06-05T18:40:55.263+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-06-05T18:40:55.264+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-06-05T18:40:55.278+0530 [INFO]  Main: Shutting down...
+2023-09-07T10:54:54.025+0530 [INFO]  Main.Core: Waiting for IPFS daemon to start
+2023-09-07T10:54:54.120+0530 [INFO]  Main.Core: Initializing daemon...
+2023-09-07T10:54:54.121+0530 [INFO]  Main.Core: Kubo version: 0.17.0
+2023-09-07T10:54:54.121+0530 [INFO]  Main.Core: Repo version: 12
+2023-09-07T10:54:54.121+0530 [INFO]  Main.Core: System version: amd64/windows
+2023-09-07T10:54:54.121+0530 [INFO]  Main.Core: Golang version: go1.19.1
+2023-09-07T10:54:55.683+0530 [INFO]  Main.Core: Swarm is limited to private network of peers with the swarm key
+2023-09-07T10:54:55.685+0530 [INFO]  Main.Core: Swarm key fingerprint: a5ef5059eede91e09c9994d112fd1e05
+2023-09-07T10:54:55.686+0530 [INFO]  Main.Core: Swarm listening on /ip4/127.0.0.1/tcp/4005
+2023-09-07T10:54:55.690+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.179.254/tcp/4005
+2023-09-07T10:54:55.695+0530 [INFO]  Main.Core: Swarm listening on /ip4/169.254.230.155/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.0.154/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm listening on /ip4/192.168.137.1/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm listening on /ip6/::1/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm listening on /p2p-circuit
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm announcing /ip4/103.60.213.132/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm announcing /ip4/127.0.0.1/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm announcing /ip4/192.168.0.154/tcp/4005
+2023-09-07T10:54:55.698+0530 [INFO]  Main.Core: Swarm announcing /ip6/::1/tcp/4005
+2023-09-07T10:54:55.699+0530 [INFO]  Main.Core: API server listening on /ip4/127.0.0.1/tcp/5005
+2023-09-07T10:54:55.699+0530 [INFO]  Main.Core: WebUI: http://127.0.0.1:5005/webui
+2023-09-07T10:54:55.699+0530 [INFO]  Main.Core: Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8084
+2023-09-07T10:54:55.700+0530 [INFO]  Main.Core: IPFS Daemon is ready
+2023-09-07T10:54:55.729+0530 [INFO]  Main.Core: Node PeerID : 12D3KooWEp8BuqNin8yuBvoVUk1iNTeDpcc7qzdd1DW1C4szYem3
+2023-09-07T10:54:55.729+0530 [INFO]  Main.Core: Setting up the core
+2023-09-07T10:54:55.733+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-09-07T10:54:55.736+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-09-07T10:54:55.740+0530 [INFO]  Main.Core.PeerManager: Bootstrap swarm connected
+2023-09-07T10:54:55.743+0530 [INFO]  Main.Core: Starting the core
+2023-09-07T10:54:55.743+0530 [INFO]  Main.Core.enswebserver: Starting Server at localhost:25010
+2023-09-07T10:54:55.755+0530 [INFO]  Main.Core.enswebserver: Server running at : https://localhost:25010
+2023-09-07T10:54:55.757+0530 [INFO]  Main: Swagger URL : http://0.0.0.0:20003/swagger/index.html
+2023-09-07T10:54:55.758+0530 [INFO]  Main: Core version : 0.0.8
+2023-09-07T10:54:55.758+0530 [INFO]  Main: Starting server...
+2023-09-07T10:54:55.759+0530 [INFO]  Main.enswebserver: Starting Server at 0.0.0.0:20003
+2023-09-07T10:54:55.759+0530 [INFO]  Main.enswebserver: Server running at : http://0.0.0.0:20003
+2023-09-07T10:58:51.878+0530 [ERROR] Main.Core: password required for creating: err=<nil>
+2023-09-07T10:58:53.266+0530 [ERROR] Main.Core.explorerclient: Http Request failed with status 406
+2023-09-07T13:16:49.020+0530 [ERROR] Main.Rubixplatform: failed to parse request: err="invalid content type"
+2023-09-07T13:25:13.073+0530 [ERROR] Main.Rubixplatform: failed to parse request: err="invalid content type"
+2023-09-07T16:52:50.837+0530 [INFO]  Main.Core: IPFS daemon requested to close
+2023-09-07T16:52:50.843+0530 [INFO]  Main.Core: IPFS daemon finished
+2023-09-07T16:52:50.852+0530 [INFO]  Main: Shutting down...

@@ -1,0 +1,255 @@
+2023-05-23T17:21:51.597+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-05-23T17:21:51.599+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-23T17:21:51.604+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-23T17:23:07.467+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-05-23T17:23:07.474+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-23T17:23:07.474+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-23T17:24:41.036+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-05-23T17:24:41.037+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-23T17:24:41.038+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-29T16:51:07.342+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/shutdown": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-05-29T16:51:07.351+0530 [ERROR] Main: Failed to shutdown: msg="Failed to shutdown, Post "http://localhost:20001/api/shutdown": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-05-29T16:51:22.502+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/shutdown": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-05-29T16:51:22.503+0530 [ERROR] Main: Failed to shutdown: msg="Failed to shutdown, Post "http://localhost:20000/api/shutdown": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-29T16:52:12.495+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/shutdown": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-05-29T16:52:12.499+0530 [ERROR] Main: Failed to shutdown: msg="Failed to shutdown, Post "http://localhost:20000/api/shutdown": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-29T17:58:43.268+0530 [INFO]  Main: Got all DID successfully
+2023-05-30T13:08:53.814+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-05-30T13:08:53.821+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-30T13:08:53.822+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-05-30T13:13:54.979+0530 [INFO]  Main: DID Created successfully
+2023-05-30T13:13:54.981+0530 [INFO]  Main: DID Created successfully
+2023-05-31T11:29:30.499+0530 [INFO]  Main: Ping response received successfully: message="Ping Received"
+2023-05-31T17:52:38.509+0530 [INFO]  Main: DID Created successfully
+2023-05-31T17:52:38.516+0530 [INFO]  Main: DID Created successfully
+2023-05-31T18:31:48.269+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-05-31T18:33:47.060+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/shutdown": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-05-31T18:33:47.062+0530 [ERROR] Main: Failed to shutdown: msg="Failed to shutdown, Post "http://localhost:20001/api/shutdown": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-05-31T18:38:30.297+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T11:02:38.487+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:02:38.489+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:18:40.118+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:18:40.120+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:26:24.922+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:26:24.925+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:27:21.447+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:27:21.449+0530 [INFO]  Main: DID Created successfully
+2023-06-01T11:31:22.650+0530 [INFO]  Main: Quorum setup successfully
+2023-06-01T11:32:48.300+0530 [INFO]  Main: Quorum setup successfully
+2023-06-01T11:33:55.861+0530 [INFO]  Main: Quorum setup successfully
+2023-06-01T11:34:27.170+0530 [INFO]  Main: Quorum setup successfully
+2023-06-01T11:35:15.724+0530 [INFO]  Main: Quorum setup successfully
+2023-06-01T11:54:28.346+0530 [INFO]  Main: Quorum list added successfully
+2023-06-01T16:55:50.775+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T16:58:14.375+0530 [ERROR] Main: Failed to generate RBT: msg="DID is not exist"
+2023-06-01T16:59:02.209+0530 [ERROR] Main: Failed to generate RBT: msg="DID is not exist"
+2023-06-01T17:00:08.830+0530 [ERROR] Main: Failed to generate RBT: msg="DID is not exist"
+2023-06-01T17:27:10.703+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T17:27:15.344+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T17:27:18.502+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T17:27:22.206+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T17:27:28.532+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-01T17:38:51.722+0530 [ERROR] Main: Failed to generate RBT: msg="DID is not exist"
+2023-06-01T17:42:30.102+0530 [INFO]  Main: DID Created successfully
+2023-06-01T17:42:30.103+0530 [INFO]  Main: DID Created successfully
+2023-06-01T17:44:01.627+0530 [ERROR] Main: Failed to generate RBT: msg="DID is not exist"
+2023-06-01T18:10:23.887+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T10:52:52.344+0530 [INFO]  Main: Got all DID successfully
+2023-06-02T10:56:42.493+0530 [INFO]  Main: DID Created successfully
+2023-06-02T10:56:42.494+0530 [INFO]  Main: DID Created successfully
+2023-06-02T10:59:17.221+0530 [INFO]  Main: DID Created successfully
+2023-06-02T10:59:17.223+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:15:08.621+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:15:08.623+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:15:37.597+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T11:15:43.098+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:15:43.100+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:15:51.834+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:15:51.835+0530 [INFO]  Main: DID Created successfully
+2023-06-02T11:17:48.049+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T11:25:09.822+0530 [INFO]  Main: Got all DID successfully
+2023-06-02T11:38:29.698+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T11:39:07.461+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T11:39:56.715+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T11:40:33.606+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T11:41:00.105+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T11:48:15.017+0530 [INFO]  Main: Quorum list added successfully
+2023-06-02T11:49:49.598+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-02T12:02:15.678+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:02:15.800+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:04:58.480+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:04:58.601+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:06:02.941+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:06:03.049+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:07:26.735+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:07:26.843+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:08:06.127+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:08:06.233+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:35:50.149+0530 [INFO]  Main: DID Created successfully
+2023-06-02T12:35:50.150+0530 [INFO]  Main: DID Created successfully
+2023-06-02T12:38:09.181+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T12:39:01.902+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:39:01.904+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:40:16.131+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:40:16.133+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:40:49.843+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:40:49.844+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:41:16.060+0530 [ERROR] Main: Failed to get response from the server, Get "http://localhost:200000/api/getallquorum": dial tcp: address 200000: invalid port
+2023-06-02T12:41:16.061+0530 [ERROR] Main: Invalid response from the node: err="Get "http://localhost:200000/api/getallquorum": dial tcp: address 200000: invalid port"
+2023-06-02T12:41:26.911+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-02T12:44:04.129+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T12:46:03.797+0530 [INFO]  Main: Got all DID successfully
+2023-06-02T12:48:24.320+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:48:24.320+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T12:51:50.758+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:51:51.691+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:52:34.480+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:52:35.428+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:52:59.107+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:52:59.948+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:53:29.714+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:53:30.597+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T12:53:59.530+0530 [INFO]  Main: Got the request for the signature
+2023-06-02T12:54:00.512+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-02T14:41:15.323+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-02T15:09:04.872+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T15:09:16.042+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T15:09:19.201+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T15:09:22.419+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T15:09:25.826+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-02T15:27:15.904+0530 [INFO]  Main: DID Created successfully
+2023-06-02T15:27:15.906+0530 [INFO]  Main: DID Created successfully
+2023-06-02T15:33:36.147+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T15:34:12.490+0530 [ERROR] Main: Failed to setup quorum: msg="Failed to setup quorum, DID does not exist"
+2023-06-02T15:34:27.784+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T15:35:00.408+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T15:35:53.831+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T15:36:30.297+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T15:37:08.409+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:37:08.410+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:38:25.444+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T15:38:29.313+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:38:29.314+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:38:55.179+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:38:55.182+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:39:54.908+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:39:54.909+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:43:21.341+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:43:21.342+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T15:44:35.220+0530 [INFO]  Main: Quorum list added successfully
+2023-06-02T16:28:42.351+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:28:42.352+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:54:27.087+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:54:27.089+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:55:50.830+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T16:56:12.702+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T16:56:31.722+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T16:57:03.419+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T16:57:39.452+0530 [INFO]  Main: Quorum setup successfully
+2023-06-02T16:57:47.492+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:57:47.493+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:57:54.720+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-02T16:57:54.721+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T11:43:14.048+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-05T11:53:52.479+0530 [ERROR] Main: Failed to get response from the server, Get "http://localhost:200000/api/getalldid": dial tcp: address 200000: invalid port
+2023-06-05T11:53:52.481+0530 [ERROR] Main: Invalid response from the node: err="Get "http://localhost:200000/api/getalldid": dial tcp: address 200000: invalid port"
+2023-06-05T11:53:59.677+0530 [INFO]  Main: Got all DID successfully
+2023-06-05T11:54:26.822+0530 [INFO]  Main: Got all DID successfully
+2023-06-05T11:56:35.625+0530 [ERROR] Main: Invalid file: err="open -quorumList: The system cannot find the file specified."
+2023-06-05T11:56:35.626+0530 [ERROR] Main: Failed to add quorum list to node: msg="Invalid file, failed to add quorum list"
+2023-06-05T11:58:14.840+0530 [ERROR] Main: Invalid file: err="open -quorumList: The system cannot find the file specified."
+2023-06-05T11:58:14.841+0530 [ERROR] Main: Failed to add quorum list to node: msg="Invalid file, failed to add quorum list"
+2023-06-05T12:00:12.831+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T12:00:12.832+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T12:01:17.003+0530 [INFO]  Main: Got all DID successfully
+2023-06-05T12:01:24.470+0530 [INFO]  Main: Got all DID successfully
+2023-06-05T12:01:28.583+0530 [INFO]  Main: Got all DID successfully
+2023-06-05T12:01:31.409+0530 [INFO]  Main: Got all DID successfully
+2023-06-05T12:18:25.826+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:18:25.832+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:19:02.644+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:19:02.664+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:19:24.920+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:19:24.923+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:19:50.098+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:19:50.101+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:20:11.687+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:20:11.689+0530 [INFO]  Main: DID Created successfully
+2023-06-05T12:35:10.333+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T12:36:17.619+0530 [INFO]  Main: Quorum setup successfully
+2023-06-05T12:36:42.235+0530 [INFO]  Main: Quorum setup successfully
+2023-06-05T12:37:14.216+0530 [INFO]  Main: Quorum setup successfully
+2023-06-05T12:37:42.859+0530 [INFO]  Main: Quorum setup successfully
+2023-06-05T12:38:05.105+0530 [INFO]  Main: Quorum setup successfully
+2023-06-05T12:38:58.543+0530 [INFO]  Main: Quorum list added successfully
+2023-06-05T12:40:24.709+0530 [INFO]  Main: Got the request for the signature
+2023-06-05T12:40:25.608+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-05T12:41:05.301+0530 [INFO]  Main: Got the request for the signature
+2023-06-05T12:41:06.335+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-05T12:41:50.739+0530 [INFO]  Main: Got the request for the signature
+2023-06-05T12:41:51.560+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-05T12:42:39.998+0530 [INFO]  Main: Got the request for the signature
+2023-06-05T12:42:40.808+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-05T12:43:34.226+0530 [INFO]  Main: Got the request for the signature
+2023-06-05T12:43:35.201+0530 [INFO]  Main: Test RBT generated successfully
+2023-06-05T14:53:35.306+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T15:05:24.736+0530 [INFO]  Main: DID Created successfully
+2023-06-05T15:05:24.742+0530 [INFO]  Main: DID Created successfully
+2023-06-05T15:08:03.141+0530 [ERROR] Main: Invalid command
+2023-06-05T15:08:13.997+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T15:09:41.260+0530 [INFO]  Main: Quorum setup successfully
+2023-06-05T15:11:14.166+0530 [INFO]  Main: Quorum list added successfully
+2023-06-05T15:11:33.889+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T15:11:33.890+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T15:12:08.381+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T15:12:11.712+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T15:12:11.713+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T15:12:58.903+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T15:13:02.053+0530 [INFO]  Main: Quorum list added successfully
+2023-06-05T16:37:43.731+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T16:39:50.235+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T16:40:28.116+0530 [INFO]  Main: Quorum list added successfully
+2023-06-05T16:40:59.865+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T16:40:59.867+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T16:41:31.071+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T16:41:31.074+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T16:43:08.286+0530 [ERROR] Main: Failed to add quorum list: msg="Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T16:43:08.288+0530 [ERROR] Main: Failed to add quorum list to node: msg="Failed to add quorum list, Failed to add quorums, UNIQUE constraint failed: quorummanager.address"
+2023-06-05T16:44:07.792+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T16:44:18.882+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T16:44:21.133+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T16:44:28.789+0530 [INFO]  Main: Shutdown initiated successfully, Shutting down...
+2023-06-05T16:45:21.080+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T16:45:25.934+0530 [INFO]  Main: Quorum list added successfully
+2023-06-05T16:45:27.780+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T17:46:45.236+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T17:46:57.637+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-05T17:47:18.030+0530 [INFO]  Main: Removed all quorums successfully
+2023-06-05T17:47:21.197+0530 [INFO]  Main: Got all quorum list successfully
+2023-06-13T17:54:53.885+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it.
+2023-06-13T17:54:53.888+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-06-13T17:54:53.889+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20000/api/createdid": dial tcp [::1]:20000: connectex: No connection could be made because the target machine actively refused it."
+2023-06-13T17:59:15.506+0530 [INFO]  Main: DID Created successfully
+2023-06-13T17:59:15.508+0530 [INFO]  Main: DID Created successfully
+2023-08-28T18:17:29.743+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-08-28T18:17:29.744+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-28T18:17:29.744+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:08:45.285+0530 [INFO]  Main: DID Created successfully
+2023-08-29T11:08:45.306+0530 [INFO]  Main: DID Created successfully
+2023-08-29T11:15:56.048+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-08-29T11:15:56.050+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:15:56.050+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:16:28.217+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20002/api/createdid": dial tcp [::1]:20002: connectex: No connection could be made because the target machine actively refused it.
+2023-08-29T11:16:28.219+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20002/api/createdid": dial tcp [::1]:20002: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:16:28.220+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20002/api/createdid": dial tcp [::1]:20002: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:16:58.941+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-08-29T11:16:58.943+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:16:58.943+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:17:13.267+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-08-29T11:17:13.268+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:17:13.269+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:52:44.027+0530 [ERROR] Main: Failed to get response from the server, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it.
+2023-08-29T11:52:44.039+0530 [ERROR] Main: Invalid response from the node: err="Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-08-29T11:52:44.042+0530 [ERROR] Main: Failed to create DID: message="Invalid response from the node, Post "http://localhost:20001/api/createdid": dial tcp [::1]:20001: connectex: No connection could be made because the target machine actively refused it."
+2023-09-05T18:18:02.641+0530 [INFO]  Main: DID Created successfully
+2023-09-05T18:18:02.662+0530 [INFO]  Main: DID Created successfully
