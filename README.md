@@ -55,6 +55,4 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 You have successfully built the `rubix.exe` executable for Windows using the `make compile-windows` command. You can now use this executable to run various commands as needed for your project.
 
----
 
-Feel free to customize this documentation according to your needs. This guide provides clear instructions for building the `rubix.exe` executable on a Windows system.
