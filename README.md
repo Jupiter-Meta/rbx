@@ -1,78 +1,60 @@
 
-### Setting Up Rubix-Explorer
 
-1. **Clone the Repository**
+# Building `rubix.exe` for Windows
 
-   Clone the Rubix-Explorer repository from GitHub using the following link:
-   
-   ```bash
-   git clone https://github.com/Jupiter-Meta/rbx.git
+This guide will walk you through the process of building the `rubix.exe` executable for Windows .
+
+## Prerequisites
+
+Before you begin, ensure that you have the following prerequisites installed on your system:
+
+1. Git: https://git-scm.com/
+2. Go programming language: https://golang.org/doc/install
+
+## Step 1: Clone the Repository
+
+1. Open your command prompt or terminal.
+
+2. Clone the `rubixgoplatform` repository in development mode using the following command:
+
+   ```sh
+   git clone https://github.com/rubixchain/rubixgoplatform.git
    ```
 
-2. **Prepare IPFS**
+3. Change your current working directory to the cloned repository:
 
-   Before proceeding, ensure that you have IPFS installed and running. You can run the IPFS daemon separately. Make sure it's running on the default port `5002`.
-
-3. **Navigate to the Rubix-Explorer Folder**
-
-   Open a PowerShell terminal and navigate to the Rubix-Explorer folder:
-
-   ```bash
-   cd rbx
+   ```sh
+   cd rubixgoplatform
    ```
 
-4. **Setup Node and Create DID**
+## Step 2: Switch to the `develop` Branch
 
-   Run the following commands to set up a Rubix node and create a DID (Decentralized Identifier):
+1. To ensure you are on the `develop` branch, execute the following command:
 
-   ```bash
-   ./rubixgoplatform.exe run -p node0 -n 0 -s -port 20000
-   ./rubixgoplatform.exe createdid -port 20000
+   ```sh
+   git checkout develop
    ```
 
-5. **Setup Quorum**
+## Step 3: Build `rubix.exe`
 
-   Configure a quorum by running the following command. Replace `<did>` with the DID you obtained in step 4:
+1. To build the `rubix.exe` executable for Windows, use the following command:
 
-   ```bash
-   ./rubixgoplatform.exe setupquorum -did <did> -port 20000
+   ```sh
+   make compile-windows
    ```
 
-6. **Add Quorum to Sender Node**
+   This command will set the necessary environment variables, download dependencies, and compile the executable.
 
-   To add a quorum to the sender node, run the following command. Replace `<port of the sender node>` with the port of the sender node, and provide the `quorumList.json` file as needed:
+## Step 4: Locate the `rubix.exe` Executable
 
-   ```bash
-   ./rubixgoplatform.exe addquorum -port <port of the sender node> -quorumList quorumList.json
-   ```
+1. Once the compilation process is complete, you can find the `rubix.exe` executable in the `windows` folder within your project directory (`rubixgoplatform`).
 
-7. **Generate Test RBT Tokens**
+   Example path: `rubixgoplatform/windows/rubixgoplatform.exe`
 
-   Generate test RBT tokens with the following command. Replace the DID and specify the number of tokens you want to generate:
+## Congratulations!
 
-   ```bash
-   ./rubixgoplatform.exe generatetestrbt -port 20003 -did bafybmia3cujkg6aouqyvdmsfsy3hhjdq3zaayeuzviwn47j5k2qatdaive -numTokens 20
-   ```
+You have successfully built the `rubix.exe` executable for Windows using the `make compile-windows` command. You can now use this executable to run various commands as needed for your project.
 
-8. **Create Additional Nodes**
+---
 
-   You can create additional nodes by changing the port number, node number, and other parameters like `-p` and `-n`.
-
-### Addressing IPFS Configuration Errors
-
-#### Error 1 - IPFS Configuration
-
-1. Open IPFS Desktop.
-
-2. Navigate to **Settings**.
-
-3. Under **IPFS CONFIG**, find the "API" field and change it to the following value:
-
-   ```
-   "API": "/ip4/127.0.0.1/tcp/5002"
-   ```
-#### Error 2 - Libp2pStreamMounting
-1. Enable "Libp2pStreamMounting" if it's not already enabled.
-
-2. Save your changes and restart the IPFS daemon.
-
+Feel free to customize this documentation according to your needs. This guide provides clear instructions for building the `rubix.exe` executable on a Windows system.
