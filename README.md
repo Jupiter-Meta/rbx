@@ -16,7 +16,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 5. **make:** Once the Chocolate is installed, choco install make (PowerShell with Admin Privilege preferred)
 6. TDM-GCC: https://jmeubank.github.io/tdm-gcc/
 
-Once the prerequisites are installed, close the PowerShell and open it again with admin privilege.
+Once the prerequisites are installed, close the PowerShell and open it again with admin privilege. This step is important! 
 
 ## Step 1: Clone the Repository
 
