@@ -13,7 +13,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 ## Step 1: Clone the Repository
 
-1. Open your command prompt or terminal.
+1. Open your command prompt or terminal or github desktop app.
 
 2. Clone the `rubixgoplatform` repository in development mode using the following command:
 
