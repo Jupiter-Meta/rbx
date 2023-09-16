@@ -1,15 +1,18 @@
 
 
-# Building `rubix.exe` for Windows
+# Step-by-Step Guide for Building `rubix.exe` for Windows
+More about Rubix here - https://www.rubix.net/
 
-This guide will walk you through the process of building the `rubix.exe` executable for Windows .
+This guide will walk you through the process of building the `rubix.exe` executable for Windows.
 
 ## Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed on your system:
 
-1. Git: https://git-scm.com/
-2. Go programming language: https://golang.org/doc/install
+1. **Git:** https://git-scm.com/
+2. **Go programming language:** https://golang.org/doc/install
+3. **Chocolate** (Required for make): https://chocolatey.org/install#individual (Powershell with Admin Privilege preferred)
+4. **make:** Once the Chocolate is installed, choco install make (Powershell with Admin Privilege preferred)
 
 ## Step 1: Clone the Repository
 
