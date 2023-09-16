@@ -10,9 +10,9 @@ This guide will walk you through the process of building the `rubix.exe` executa
 Before you begin, ensure that you have the following prerequisites installed on your system:
 
 1. **Git:** https://git-scm.com/
-2. **Go programming language:** https://golang.org/doc/install
+2. **Go programming language:** https://golang.org/doc/install 
 3. **Chocolate** (Required for make): https://chocolatey.org/install#individual (Powershell with Admin Privilege preferred)
-4. **make:** Once the Chocolate is installed, choco install make (Powershell with Admin Privilege preferred)
+4. **cmake:** Once the Chocolate is installed, choco install cmake (Powershell with Admin Privilege preferred)
 
 ## Step 1: Clone the Repository
 
