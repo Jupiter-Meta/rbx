@@ -11,8 +11,12 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 1. **Git:** https://git-scm.com/
 2. **Go programming language:** https://golang.org/doc/install 
-3. **Chocolate** (Required for make): https://chocolatey.org/install#individual (Powershell with Admin Privilege preferred)
-4. **cmake:** Once the Chocolate is installed, choco install cmake (Powershell with Admin Privilege preferred)
+3. **Chocolate** (Required for make): https://chocolatey.org/install#individual (PowerShell with Admin Privilege preferred)
+4. **cmake:** Once the Chocolate is installed, choco install cmake (PowerShell with Admin Privilege preferred)
+5. **make:** Once the Chocolate is installed, choco install make (PowerShell with Admin Privilege preferred)
+6. TDM-GCC: https://jmeubank.github.io/tdm-gcc/
+
+Once the prerequisites are installed, close the PowerShell and open it again with admin privilege.
 
 ## Step 1: Clone the Repository
 
@@ -47,6 +51,8 @@ Before you begin, ensure that you have the following prerequisites installed on 
    ```
 
    This command will set the necessary environment variables, download dependencies, and compile the executable.
+
+   Note: If you get any build errors, check for missing prerequisites or remove the .git folder temporarily (move to the recycle bin or another folder or rename) and try to build again.
 
 ## Step 4: Locate the `rubix.exe` Executable
 
