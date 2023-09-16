@@ -58,4 +58,4 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 You have successfully built the `rubix.exe` executable for Windows using the `make compile-windows` command. You can now use this executable to run various commands as needed for your project.
 
-
+© Meta Jupiter Software Solutions Private Limited (Jupiter Meta) - https://www.jupitermeta.io
