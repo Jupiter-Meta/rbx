@@ -1,0 +1,40 @@
+=============== Sep 27, 2023 (IST) ===============
+11:46:24.758326 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:46:24.763734 db@open opening
+11:46:24.764962 version@stat F·[] S·0B[] Sc·[]
+11:46:24.766490 db@janitor F·2 G·0
+11:46:24.766490 db@open done T·2.756ms
+11:46:24.995790 db@close closing
+11:46:24.996785 db@close done T·995.7µs
+=============== Sep 27, 2023 (IST) ===============
+11:46:24.999905 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:46:25.018802 version@stat F·[] S·0B[] Sc·[]
+11:46:25.018802 db@open opening
+11:46:25.019306 journal@recovery F·1
+11:46:25.020037 journal@recovery recovering @1
+11:46:25.022162 memdb@flush created L0@2 N·12 S·1KiB "/pi..ZTE,v10":"/pr..crQ,v12"
+11:46:25.023276 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+11:46:25.027664 db@janitor F·3 G·0
+11:46:25.027664 db@open done T·8.8619ms
+11:46:25.057777 db@close closing
+11:46:25.057777 db@close done T·0s
+=============== Sep 27, 2023 (IST) ===============
+11:46:28.195484 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:46:28.196512 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+11:46:28.196512 db@open opening
+11:46:28.196512 journal@recovery F·1
+11:46:28.196512 journal@recovery recovering @3
+11:46:28.203510 memdb@flush created L0@5 N·6 S·1KiB "/F5..YVI,v19":"/pi..rty,v14"
+11:46:28.204025 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+11:46:28.208565 db@janitor F·4 G·0
+11:46:28.208565 db@open done T·12.0533ms
+=============== Sep 27, 2023 (IST) ===============
+11:46:40.429946 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:46:40.431119 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+11:46:40.431119 db@open opening
+11:46:40.431119 journal@recovery F·1
+11:46:40.431119 journal@recovery recovering @6
+11:46:40.437750 memdb@flush created L0@8 N·8 S·617B "/pr..0/b,d21":"/pr..crQ,d28"
+11:46:40.441980 version@stat F·[3] S·2KiB[2KiB] Sc·[0.75]
+11:46:40.447202 db@janitor F·5 G·0
+11:46:40.447202 db@open done T·16.0838ms
